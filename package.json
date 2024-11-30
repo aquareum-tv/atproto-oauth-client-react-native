@@ -1,5 +1,5 @@
 {
-  "name": "@atproto/oauth-client-react-native",
+  "name": "@aquareum/atproto-oauth-client-react-native",
   "version": "0.0.1",
   "license": "MIT",
   "description": "ATProto OAuth client for React Native",

@@ -27,3 +27,5 @@ EOF
 pnpm install
 pnpm add --save-dev @types/node
 pnpm build
+pkg="$(cat package.json | jq '.name = "@aquareum/atproto-oauth-client-react-native"')"
+echo "$pkg" > package.json
