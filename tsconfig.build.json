@@ -1,0 +1,8 @@
+{
+  "extends": "../atproto/tsconfig/isomorphic.json",
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist"
+  },
+  "include": ["./src"]
+}
